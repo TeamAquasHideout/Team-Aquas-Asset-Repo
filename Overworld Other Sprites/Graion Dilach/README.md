@@ -5,3 +5,5 @@ See [here](https://github.com/GraionDilach/spinarakgreen/wiki/Apricorn-Trees-(po
 ![apricorn_sapling.png](apricorn_sapling.png)
 
 ![apricon_tree.png](apricon_tree.png)
+
+No credit needed.
