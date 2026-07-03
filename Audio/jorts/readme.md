@@ -14,3 +14,5 @@ keysplit moonlight_sonata_3rd_movement_piano, 31
 ```
 
 Additionally, you will need the HQ mixer and track expansion to utilize some of these midi files, see this in RHH (https://discord.com/channels/419213663107416084/1456784872067825758/1456784875247112272) and on pokecommunity (https://www.pokecommunity.com/threads/how-to-add-edit-and-understand-music-in-pokeemerald.444317/).
+
+Some tracks require additional instruments to be added, please see the direct sound samples folder for those.
