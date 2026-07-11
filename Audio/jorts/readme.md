@@ -1,4 +1,4 @@
-Please note that keysplit_flashing_lights_strings must be added to sound/keysplit_tables.inc, or flashing_lights.inc needs to be changed to use an existing strings keysplit. Same with moonlight sonata 3rd movement.
+Please note that these keysplits must be added to sound/keysplit_tables.inc, or their corresponding songs won't compile.
 
 ```
 keysplit flashing_lights_strings, 25
@@ -11,6 +11,17 @@ keysplit moonlight_sonata_3rd_movement_piano, 31
     split 1, 70
     split 2, 91
     split 3, 108
+
+keysplit farewell_hyrule_king_piano
+	split 0, 55
+	split 1, 70
+	split 2, 91
+	split 3, 128
+
+keysplit farewell_hyrule_king_strings
+	split 0, 69
+	split 1, 81
+	split 2, 128
 ```
 
 Additionally, you will need the HQ mixer and track expansion to utilize some of these midi files, see this in RHH (https://discord.com/channels/419213663107416084/1456784872067825758/1456784875247112272) and on pokecommunity (https://www.pokecommunity.com/threads/how-to-add-edit-and-understand-music-in-pokeemerald.444317/).
