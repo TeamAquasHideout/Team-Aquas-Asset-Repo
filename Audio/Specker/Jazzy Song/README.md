@@ -2,7 +2,10 @@ Hello, credit is preferred but not required (I'd have no way of knowing if you g
 Feel free to reach out to `specker1` on Discord if you have any problems adding this song or it doesn't sound like the preview.
 
 ## Installation
-Nothing special.
+
+**Note**: This song requires you change `| (5 << SOUND_MODE_MAXCHN_SHIFT)` TO `| (12 << SOUND_MODE_MAXCHN_SHIFT)` in `src/m4a.c`!
+This song plays *way* more than just 5 samples at a time!
+
 - Move the `drums` folder into wherever you have your DirectSound samples
     - Also move `pl_musicbox62.bin` to your sounds directory.
 - Add the imports from `new_direct_soundata.inc` to your `direct_sound_data.inc`.
