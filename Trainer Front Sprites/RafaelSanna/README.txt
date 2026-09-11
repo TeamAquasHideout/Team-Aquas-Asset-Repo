@@ -1,12 +1,14 @@
-## Lacey & Raihan Trainer Front Sprites
+## Trainer Front Sprites
 
-Trainer front sprites of Lacey and Raihan made by **RafaelSanna**.
+Trainer front sprites made by **RafaelSanna**.
 
-These sprites were originally created as a commission for **eatthepear**.
-eatthepear requested that the commissioned sprites be shared publicly as **free-to-use assets**.
+- **Lacey** — commissioned by **eatthepear**
+- **Raihan** — commissioned by **eatthepear**
+- **Magma Admin** — original sprite by **RafaelSanna**
 
-- Free to use and edit.
-- Please credit **RafaelSanna** and **eatthepear** if you use these sprites.
+These sprites are free to use and edit.
+
+Please credit **RafaelSanna** if you use them.
 
 ### Lacey
 
@@ -15,3 +17,7 @@ eatthepear requested that the commissioned sprites be shared publicly as **free-
 ### Raihan
 
 ![raihan.png](raihan.png)
+
+### Magma Admin
+
+![magma_adm.png](magma_adm.png)
