@@ -1,0 +1,14 @@
+{
+  "general": {
+    "metatile": "0x1A6"
+  },
+  "poke_mart": {
+    "metatile": "0x185"
+  },
+  "poke_center": {
+    "metatile": "0x181"
+  },
+  "gym": {
+    "metatile": "0x191"
+  }
+}
