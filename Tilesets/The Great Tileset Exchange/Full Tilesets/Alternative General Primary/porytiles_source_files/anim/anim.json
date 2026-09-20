@@ -1,0 +1,212 @@
+{
+  "calm_water_a": {
+    "frame_offset": 1,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "tile_offset": 1
+  },
+  "calm_water_b": {
+    "frame_offset": 1,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "tile_offset": 2
+  },
+  "flower": {
+    "frames": [
+      "0",
+      "1",
+      "2"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "0",
+      "2"
+    ],
+    "tile_offset": 3
+  },
+  "flower_white": {
+    "frames": [
+      "0",
+      "1",
+      "2"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "0",
+      "2"
+    ],
+    "tile_offset": 7
+  },
+  "sand_water_edge": {
+    "frame_offset": 2,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "0"
+    ],
+    "tile_offset": 11
+  },
+  "sand_water_edge_b": {
+    "frame_offset": 2,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "0"
+    ],
+    "tile_offset": 17
+  },
+  "shallow_water": {
+    "frame_offset": 1,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "tile_offset": 19
+  },
+  "water_edge": {
+    "frame_offset": 1,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "tile_offset": 21
+  },
+  "waterfall": {
+    "frame_offset": 3,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "tile_offset": 41
+  },
+  "water_rock": {
+    "frame_offset": 1,
+    "frames": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "frame_order": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "tile_offset": 25
+  }
+}
