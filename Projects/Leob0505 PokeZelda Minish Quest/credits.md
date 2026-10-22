@@ -42,6 +42,7 @@ This project wouldn't be possible without the work of these talented artists:
 * **vol** (for the start menu)
 * **mudskip** (for the ui_main_menu)
 * **missiri** (for the exclamation_mark when you're encountering other trainers)
+* **gamekrazzy** (for the exclamation_mark when you're encountering other trainers)
 
 ### ⚠️ Usage Notice
 If you use any assets from this repository for your own ROM Hack, **you MUST credit the following creators:**
